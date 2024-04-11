@@ -6,4 +6,6 @@
 
 # 09:28 Mac test push
 
+# 09:36 Mac test push vpn yes
+
  
