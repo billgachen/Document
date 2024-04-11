@@ -8,4 +8,4 @@
 
 # 09:36 Mac test push vpn yes
 
- 
+ 09:59 push
